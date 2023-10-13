@@ -1,7 +1,7 @@
 <h1 align = "center">Welcome to my github!</h1>
 ## Computer Science Student and Aspiring Game Software Engineer
 
-** About me **
+**About me**
 - 🎓 A senior at Cal State Fullerton
 - 🎮 Love to play and create games
   
