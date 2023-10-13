@@ -1,5 +1,5 @@
 <h1 align = "center">Welcome to my github!</h1>
-## Computer Science Student and Aspiring Game Software Engineer
+<h3 align = "center">Computer Science Student and Aspiring Game Software Engineer</h3>
 
 **About me**
 - 🎓 A senior at Cal State Fullerton
