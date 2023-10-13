@@ -10,3 +10,4 @@
   
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jcshaihor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jesse Shaihor's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcshaihor&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+Click on "Jesse Shaihor's github stats" it will take you to the repository and the creator for this amazing github card stat
