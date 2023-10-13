@@ -12,4 +12,4 @@
 | ------------- | ------------- |
 
 
-Click on "Jesse Shaihor's github stats" it will take you to the repository and the creator for this amazing github card stat
+Click [here](https://github.com/anuraghazra/github-readme-stats) it will take you to the repository and the creator for this amazing github card stat
